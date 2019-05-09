@@ -2,7 +2,7 @@
 
 ### This project is a python application, for the line command in terminal. It renames all files in a directory/folder at the same time, or, if the user prefers, the program runs an assistant to rename all files in a directory/folder.  
 
-### The "all_files_renaming.py" is a project sample, which I am making as a demonstration of some of my abilities. It is also found on my portfolio: https://ropimasi.wixsite.com/portfolio .  
+### The **_"all_files_renaming.py"_** is a project sample, which I am making as a demonstration of some of my abilities. It is also found on my portfolio: https://ropimasi.wixsite.com/portfolio .  
 
 CONTENT: UDACITY UD036 PYTHON PROGRAMMING FUNDAMENTALS, MINI-PPROJECT-2-PLUS-BY-MYSELF.  
 THEME: RENAMING FILES ON OPERATIONAL SYSTEM.  
