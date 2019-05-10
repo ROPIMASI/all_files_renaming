@@ -8,7 +8,7 @@ CONTENT: UDACITY UD036 PYTHON PROGRAMMING FUNDAMENTALS, MINI-PPROJECT-2-PLUS-BY-
 THEME: RENAMING FILES ON OPERATIONAL SYSTEM.  
 PROJECT NAME: **all_files_renaming**.  
 FILE NAME: **_all_files_renaming.py_** / **_afr_** .  
-PROJ-VERSION: 0.1 .  
+PROJ-VERSION: 0.1.  
 AUTHOR: RONALDO PI MA SI.  
 DATE: 2019-MAY.  
 LANGUAGE: PYTHON.  
@@ -19,4 +19,3 @@ IMPORTANT NOTE / DISCLAIMER:
 This is a project made exclusively for study purposes. Nobody has obliga-
 tions, either responsibility on it or its effects. There is no guarantee
 it will work correctly. SEE ITS [`LICENSE`](https://raw.githubusercontent.com/ROPIMASI/all_files_renaming/master/LICENSE) FILE IN THIS REPOSITORY.  
-
