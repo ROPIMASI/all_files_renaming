@@ -1,6 +1,6 @@
 # all_files_renaming  
 
-### This project is a python application, for the line command in terminal. It renames all files in a directory/folder at the same time, or, if the user prefers, the program runs an assistant to rename all files in a directory/folder.  
+### This project is a python application, for the command line in terminal. It renames all files in a directory/folder at the same time, or, if the user prefers, the program runs an assistant to rename all files in a directory/folder.  
 
 ### The **_"all_files_renaming.py"_** is a project sample, which I am making as a demonstration of some of my abilities. It is also found on my portfolio: https://ropimasi.wixsite.com/portfolio .  
 
